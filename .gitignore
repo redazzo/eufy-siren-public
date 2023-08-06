@@ -1,0 +1,6 @@
+server/package-lock.json
+server/node_modules/
+server/persistent.json
+*.js
+server/.idea
+server/bin
