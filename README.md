@@ -1,2 +1,2 @@
 # eufy-siren-public
-Public repo for a Eufy-alarm enabled relay controller and siren.
+Public repo for a Eufy alarm system relay controller and siren.
